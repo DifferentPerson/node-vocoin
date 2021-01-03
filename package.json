@@ -1,0 +1,25 @@
+{
+  "name": "vocoin",
+  "version": "0.0.1",
+  "description": "A NodeJS Client for the VoCoin API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DifferentPerson/node-vocoin.git"
+  },
+  "keywords": [
+    "vocoin"
+  ],
+  "author": "ADifferentPerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DifferentPerson/node-vocoin/issues"
+  },
+  "homepage": "https://github.com/DifferentPerson/node-vocoin#readme",
+  "dependencies": {
+    "got": "^11.8.0"
+  }
+}
