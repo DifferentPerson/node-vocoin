@@ -15,7 +15,7 @@ module.exports = class Util {
             prefixUrl: baseUrl,
             responseType: "json",
             headers: {
-                "user-agent": "VoCoinApiClient"
+                "user-agent": "node-vocoin"
             }
         })).body;
     }
